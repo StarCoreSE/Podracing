@@ -7,7 +7,7 @@
     <AssemblerSpeedMultiplier>1</AssemblerSpeedMultiplier>
     <AssemblerEfficiencyMultiplier>1</AssemblerEfficiencyMultiplier>
     <RefinerySpeedMultiplier>1</RefinerySpeedMultiplier>
-    <OnlineMode>OFFLINE</OnlineMode>
+    <OnlineMode>PUBLIC</OnlineMode>
     <MaxPlayers>16</MaxPlayers>
     <MaxFloatingObjects>56</MaxFloatingObjects>
     <TotalBotLimit>32</TotalBotLimit>
@@ -297,5 +297,5 @@
     </ModItem>
   </Mods>
   <SessionName>Podracing</SessionName>
-  <LastSaveTime>2023-06-23T17:06:04.1782482-04:00</LastSaveTime>
+  <LastSaveTime>2023-06-23T16:06:04.1782482-05:00</LastSaveTime>
 </MyObjectBuilder_WorldConfiguration>
