@@ -1,0 +1,5 @@
+[16:56:41.241] [T1] [DS=False] DEBUG | Log Started (v1.3)
+[16:56:41.247] [T1] [DS=False] DEBUG | WeaponCore Mod found. API loaded successfully = True
+[16:56:41.960] [T1] [DS=False] DEBUG | CommandMenu Registered Successfully = True
+[17:06:05.709] [T1] [DS=False] DEBUG | Unloading mod data. Registered = True
+[17:06:05.730] [T1] [DS=False] DEBUG | Mod unloaded successfully
